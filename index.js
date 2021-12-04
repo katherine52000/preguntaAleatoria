@@ -1,6 +1,6 @@
 let si = document.getElementById('si');
 si.addEventListener("click",function(e){
-alert("eres mio papi <3");
+alert("xD");
 
 });
 
