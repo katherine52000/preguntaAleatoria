@@ -22,8 +22,8 @@ margin-right: auto;
     top:50%;
     transform:translateY(-50%);
     text-decoration: none;
-    background: black;
-    color: white;
+    background: rgb(0, 162, 255);
+    color: rgb(8, 6, 6);
     padding: 20px 35px;
     font-size: 20px;
 
