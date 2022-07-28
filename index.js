@@ -1,6 +1,6 @@
 let si = document.getElementById('si');
 si.addEventListener("click",function(e){
-alert("graciaaaas <3");
+alert("Gracias!! :D");
 
 });
 
